@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     width: '100%',
     height: 104,
     backgroundColor: '#467fd3',
-    justifyContent: "flex-end",
+    justifyContent: 'flex-end',
   },
   appbarInner: {
     alignItems: 'center',
@@ -35,4 +35,4 @@ const styles = StyleSheet.create({
     color: '#ffffff',
     fontWeight: 'bold',
   },
-})
+});
